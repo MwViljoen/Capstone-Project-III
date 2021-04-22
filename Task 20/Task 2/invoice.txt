@@ -1,0 +1,21 @@
+Order Number: 1
+Customer: MW
+Email: viljoenmw3@gmail.com
+Phone Number: 071 484 0813
+Location: Johannesburg
+
+You have ordered the following from ISeaFood in Johannesburg:
+
+2 x Sushi Special at R 200
+
+Special instructions : none
+
+Total: R 400
+
+The Driver Spike Fenton, Is nearest to the restaurant and will be delivering your order to you at:
+
+88 van heerden, Capital Park
+
+If you need to contact the restaurant, their number is 082 456 1290
+
+Order Completed On : 2021-04-21 14:29:26.0
