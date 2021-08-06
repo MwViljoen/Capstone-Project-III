@@ -9,4 +9,4 @@ Orders taken also have a location and are assigned to drivers in the same locati
 
 Java, 
 Microsoft SQL Server, 
-Javascript Database Connectivity API.
+Java Database Connectivity API.
